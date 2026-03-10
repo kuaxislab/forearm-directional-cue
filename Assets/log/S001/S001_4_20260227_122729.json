@@ -1,0 +1,68 @@
+﻿{
+    "logs": [
+        {
+            "timestamp": "2026-02-27 12:28:10.371",
+            "point_index": 0,
+            "attempt_index": 0,
+            "correct_direction": "W",
+            "responded_direction": "SE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-02-27 12:28:13.788",
+            "point_index": 0,
+            "attempt_index": 1,
+            "correct_direction": "W",
+            "responded_direction": "N",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-02-27 12:28:18.135",
+            "point_index": 0,
+            "attempt_index": 1,
+            "correct_direction": "W",
+            "responded_direction": "N",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-02-27 12:28:24.205",
+            "point_index": 0,
+            "attempt_index": 2,
+            "correct_direction": "W",
+            "responded_direction": "NE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-02-27 12:28:27.288",
+            "point_index": 0,
+            "attempt_index": 4,
+            "correct_direction": "SW",
+            "responded_direction": "SE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-02-27 12:28:30.329",
+            "point_index": 0,
+            "attempt_index": 5,
+            "correct_direction": "W",
+            "responded_direction": "E",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-02-27 12:28:33.968",
+            "point_index": 0,
+            "attempt_index": 6,
+            "correct_direction": "W",
+            "responded_direction": "NE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-02-27 12:28:37.107",
+            "point_index": 0,
+            "attempt_index": 7,
+            "correct_direction": "W",
+            "responded_direction": "NE",
+            "status": "ongoing"
+        }
+    ]
+}

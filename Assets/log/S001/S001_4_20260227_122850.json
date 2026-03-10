@@ -1,0 +1,20 @@
+﻿{
+    "logs": [
+        {
+            "timestamp": "2026-02-27 12:29:15.301",
+            "point_index": 0,
+            "attempt_index": 0,
+            "correct_direction": "W",
+            "responded_direction": "SW",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-02-27 12:29:22.439",
+            "point_index": 0,
+            "attempt_index": 1,
+            "correct_direction": "NW",
+            "responded_direction": "W",
+            "status": "ongoing"
+        }
+    ]
+}

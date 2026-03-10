@@ -1,0 +1,580 @@
+﻿{
+    "logs": [
+        {
+            "timestamp": "2026-03-05 12:06:08.322",
+            "point_index": 0,
+            "attempt_index": 0,
+            "correct_direction": "E",
+            "responded_direction": "SE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:06:15.461",
+            "point_index": 0,
+            "attempt_index": 1,
+            "correct_direction": "NE",
+            "responded_direction": "SE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:06:21.876",
+            "point_index": 0,
+            "attempt_index": 2,
+            "correct_direction": "NE",
+            "responded_direction": "SE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:06:28.530",
+            "point_index": 0,
+            "attempt_index": 3,
+            "correct_direction": "N",
+            "responded_direction": "NE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:06:37.362",
+            "point_index": 0,
+            "attempt_index": 4,
+            "correct_direction": "NW",
+            "responded_direction": "N",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:06:43.320",
+            "point_index": 0,
+            "attempt_index": 5,
+            "correct_direction": "NW",
+            "responded_direction": "N",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:06:51.139",
+            "point_index": 0,
+            "attempt_index": 6,
+            "correct_direction": "W",
+            "responded_direction": "W",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:06:52.890",
+            "point_index": 0,
+            "attempt_index": 6,
+            "correct_direction": "W",
+            "responded_direction": "N/A",
+            "status": "success"
+        },
+        {
+            "timestamp": "2026-03-05 12:06:57.527",
+            "point_index": 1,
+            "attempt_index": 0,
+            "correct_direction": "W",
+            "responded_direction": "SW",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:07:06.069",
+            "point_index": 1,
+            "attempt_index": 1,
+            "correct_direction": "NW",
+            "responded_direction": "SW",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:07:13.874",
+            "point_index": 1,
+            "attempt_index": 2,
+            "correct_direction": "N",
+            "responded_direction": "SW",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:07:22.804",
+            "point_index": 1,
+            "attempt_index": 3,
+            "correct_direction": "N",
+            "responded_direction": "NW",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:07:30.152",
+            "point_index": 1,
+            "attempt_index": 4,
+            "correct_direction": "NE",
+            "responded_direction": "SW",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:07:36.263",
+            "point_index": 1,
+            "attempt_index": 5,
+            "correct_direction": "NE",
+            "responded_direction": "S",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:07:43.623",
+            "point_index": 1,
+            "attempt_index": 6,
+            "correct_direction": "NE",
+            "responded_direction": "S",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:07:49.526",
+            "point_index": 1,
+            "attempt_index": 7,
+            "correct_direction": "NE",
+            "responded_direction": "SW",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:07:55.165",
+            "point_index": 1,
+            "attempt_index": 8,
+            "correct_direction": "NE",
+            "responded_direction": "SW",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:08:03.470",
+            "point_index": 1,
+            "attempt_index": 9,
+            "correct_direction": "NE",
+            "responded_direction": "SW",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:08:05.943",
+            "point_index": 1,
+            "attempt_index": 10,
+            "correct_direction": "NE",
+            "responded_direction": "N/A",
+            "status": "failed"
+        },
+        {
+            "timestamp": "2026-03-05 12:08:10.942",
+            "point_index": 2,
+            "attempt_index": 0,
+            "correct_direction": "N",
+            "responded_direction": "S",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:08:17.373",
+            "point_index": 2,
+            "attempt_index": 1,
+            "correct_direction": "N",
+            "responded_direction": "SW",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:08:24.954",
+            "point_index": 2,
+            "attempt_index": 2,
+            "correct_direction": "N",
+            "responded_direction": "NE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:08:30.927",
+            "point_index": 2,
+            "attempt_index": 3,
+            "correct_direction": "N",
+            "responded_direction": "NW",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:08:40.023",
+            "point_index": 2,
+            "attempt_index": 4,
+            "correct_direction": "NE",
+            "responded_direction": "SE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:08:45.870",
+            "point_index": 2,
+            "attempt_index": 5,
+            "correct_direction": "N",
+            "responded_direction": "NE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:08:51.426",
+            "point_index": 2,
+            "attempt_index": 6,
+            "correct_direction": "NW",
+            "responded_direction": "N",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:08:56.953",
+            "point_index": 2,
+            "attempt_index": 7,
+            "correct_direction": "NW",
+            "responded_direction": "N",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:09:04.356",
+            "point_index": 2,
+            "attempt_index": 8,
+            "correct_direction": "W",
+            "responded_direction": "W",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:09:06.106",
+            "point_index": 2,
+            "attempt_index": 8,
+            "correct_direction": "W",
+            "responded_direction": "N/A",
+            "status": "success"
+        },
+        {
+            "timestamp": "2026-03-05 12:09:10.564",
+            "point_index": 3,
+            "attempt_index": 0,
+            "correct_direction": "S",
+            "responded_direction": "SW",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:09:18.189",
+            "point_index": 3,
+            "attempt_index": 1,
+            "correct_direction": "SE",
+            "responded_direction": "S",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:09:25.522",
+            "point_index": 3,
+            "attempt_index": 2,
+            "correct_direction": "E",
+            "responded_direction": "SE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:09:33.327",
+            "point_index": 3,
+            "attempt_index": 3,
+            "correct_direction": "N",
+            "responded_direction": "NE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:09:39.174",
+            "point_index": 3,
+            "attempt_index": 4,
+            "correct_direction": "W",
+            "responded_direction": "NW",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:09:45.493",
+            "point_index": 3,
+            "attempt_index": 5,
+            "correct_direction": "S",
+            "responded_direction": "SW",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:09:51.382",
+            "point_index": 3,
+            "attempt_index": 6,
+            "correct_direction": "E",
+            "responded_direction": "SE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:09:57.257",
+            "point_index": 3,
+            "attempt_index": 7,
+            "correct_direction": "N",
+            "responded_direction": "NE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:10:03.256",
+            "point_index": 3,
+            "attempt_index": 8,
+            "correct_direction": "W",
+            "responded_direction": "W",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:10:17.909",
+            "point_index": 3,
+            "attempt_index": 8,
+            "correct_direction": "W",
+            "responded_direction": "N/A",
+            "status": "success"
+        },
+        {
+            "timestamp": "2026-03-05 12:10:22.700",
+            "point_index": 4,
+            "attempt_index": 0,
+            "correct_direction": "NE",
+            "responded_direction": "NE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:10:29.825",
+            "point_index": 4,
+            "attempt_index": 1,
+            "correct_direction": "NE",
+            "responded_direction": "S",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:10:37.005",
+            "point_index": 4,
+            "attempt_index": 2,
+            "correct_direction": "NE",
+            "responded_direction": "SE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:10:43.463",
+            "point_index": 4,
+            "attempt_index": 3,
+            "correct_direction": "N",
+            "responded_direction": "NE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:10:51.699",
+            "point_index": 4,
+            "attempt_index": 4,
+            "correct_direction": "N",
+            "responded_direction": "N",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:10:58.838",
+            "point_index": 4,
+            "attempt_index": 5,
+            "correct_direction": "N",
+            "responded_direction": "N",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:11:09.295",
+            "point_index": 4,
+            "attempt_index": 6,
+            "correct_direction": "NE",
+            "responded_direction": "SE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:11:15.003",
+            "point_index": 4,
+            "attempt_index": 7,
+            "correct_direction": "N",
+            "responded_direction": "NE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:11:22.184",
+            "point_index": 4,
+            "attempt_index": 8,
+            "correct_direction": "NW",
+            "responded_direction": "NE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:11:29.614",
+            "point_index": 4,
+            "attempt_index": 9,
+            "correct_direction": "NW",
+            "responded_direction": "N",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:11:32.100",
+            "point_index": 4,
+            "attempt_index": 10,
+            "correct_direction": "W",
+            "responded_direction": "N/A",
+            "status": "failed"
+        },
+        {
+            "timestamp": "2026-03-05 12:11:36.613",
+            "point_index": 5,
+            "attempt_index": 0,
+            "correct_direction": "SW",
+            "responded_direction": "SW",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:11:42.461",
+            "point_index": 5,
+            "attempt_index": 1,
+            "correct_direction": "SW",
+            "responded_direction": "SW",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:11:44.419",
+            "point_index": 5,
+            "attempt_index": 1,
+            "correct_direction": "SW",
+            "responded_direction": "N/A",
+            "status": "success"
+        },
+        {
+            "timestamp": "2026-03-05 12:11:50.086",
+            "point_index": 6,
+            "attempt_index": 0,
+            "correct_direction": "NW",
+            "responded_direction": "N",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:11:56.529",
+            "point_index": 6,
+            "attempt_index": 1,
+            "correct_direction": "W",
+            "responded_direction": "W",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:11:58.279",
+            "point_index": 6,
+            "attempt_index": 1,
+            "correct_direction": "W",
+            "responded_direction": "N/A",
+            "status": "success"
+        },
+        {
+            "timestamp": "2026-03-05 12:12:03.043",
+            "point_index": 7,
+            "attempt_index": 0,
+            "correct_direction": "SE",
+            "responded_direction": "SE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:12:11.139",
+            "point_index": 7,
+            "attempt_index": 1,
+            "correct_direction": "SE",
+            "responded_direction": "S",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:12:19.556",
+            "point_index": 7,
+            "attempt_index": 2,
+            "correct_direction": "SE",
+            "responded_direction": "SW",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:12:27.556",
+            "point_index": 7,
+            "attempt_index": 3,
+            "correct_direction": "E",
+            "responded_direction": "SE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:12:34.028",
+            "point_index": 7,
+            "attempt_index": 4,
+            "correct_direction": "NE",
+            "responded_direction": "E",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:12:40.681",
+            "point_index": 7,
+            "attempt_index": 5,
+            "correct_direction": "NE",
+            "responded_direction": "SE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:12:47.082",
+            "point_index": 7,
+            "attempt_index": 6,
+            "correct_direction": "N",
+            "responded_direction": "NE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:12:54.110",
+            "point_index": 7,
+            "attempt_index": 7,
+            "correct_direction": "NW",
+            "responded_direction": "N",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:13:00.513",
+            "point_index": 7,
+            "attempt_index": 8,
+            "correct_direction": "W",
+            "responded_direction": "W",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:13:02.262",
+            "point_index": 7,
+            "attempt_index": 8,
+            "correct_direction": "W",
+            "responded_direction": "N/A",
+            "status": "success"
+        },
+        {
+            "timestamp": "2026-03-05 12:13:06.985",
+            "point_index": 8,
+            "attempt_index": 0,
+            "correct_direction": "NW",
+            "responded_direction": "N",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:13:13.192",
+            "point_index": 8,
+            "attempt_index": 1,
+            "correct_direction": "W",
+            "responded_direction": "W",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:13:14.929",
+            "point_index": 8,
+            "attempt_index": 1,
+            "correct_direction": "W",
+            "responded_direction": "N/A",
+            "status": "success"
+        },
+        {
+            "timestamp": "2026-03-05 12:13:19.346",
+            "point_index": 9,
+            "attempt_index": 0,
+            "correct_direction": "N",
+            "responded_direction": "NE",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:13:26.053",
+            "point_index": 9,
+            "attempt_index": 1,
+            "correct_direction": "W",
+            "responded_direction": "W",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-05 12:13:27.803",
+            "point_index": 9,
+            "attempt_index": 1,
+            "correct_direction": "W",
+            "responded_direction": "N/A",
+            "status": "success"
+        }
+    ]
+}

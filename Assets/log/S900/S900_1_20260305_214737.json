@@ -1,0 +1,12 @@
+﻿{
+    "logs": [
+        {
+            "timestamp": "2026-03-05 21:48:13.106",
+            "point_index": 0,
+            "attempt_index": 0,
+            "correct_direction": "E",
+            "responded_direction": "NE",
+            "status": "ongoing"
+        }
+    ]
+}

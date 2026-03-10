@@ -1,0 +1,44 @@
+﻿{
+    "logs": [
+        {
+            "timestamp": "2026-03-08 19:39:55.369",
+            "point_index": 0,
+            "attempt_index": 0,
+            "correct_direction": "SW",
+            "responded_direction": "SW",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-08 19:39:57.327",
+            "point_index": 0,
+            "attempt_index": 0,
+            "correct_direction": "SW",
+            "responded_direction": "N/A",
+            "status": "success"
+        },
+        {
+            "timestamp": "2026-03-08 19:40:01.868",
+            "point_index": 1,
+            "attempt_index": 0,
+            "correct_direction": "W",
+            "responded_direction": "SW",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-08 19:40:09.548",
+            "point_index": 1,
+            "attempt_index": 1,
+            "correct_direction": "N",
+            "responded_direction": "NW",
+            "status": "ongoing"
+        },
+        {
+            "timestamp": "2026-03-08 19:40:16.784",
+            "point_index": 1,
+            "attempt_index": 2,
+            "correct_direction": "E",
+            "responded_direction": "NE",
+            "status": "ongoing"
+        }
+    ]
+}

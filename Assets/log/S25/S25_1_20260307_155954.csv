@@ -1,0 +1,23 @@
+﻿Timestamp,Point_Index,Attempt_Index,Correct_Direction,Responded_Direction,Status
+2026-03-07 16:00:21.986,0,0,SE,E,ongoing
+2026-03-07 16:00:27.930,0,1,SE,S,ongoing
+2026-03-07 16:00:34.042,0,2,SE,SE,ongoing
+2026-03-07 16:00:36.000,0,2,SE,N/A,success
+2026-03-07 16:00:40.374,1,0,SW,SW,ongoing
+2026-03-07 16:00:42.333,1,0,SW,N/A,success
+2026-03-07 16:00:48.984,2,0,NW,N,ongoing
+2026-03-07 16:00:54.886,2,1,NW,NW,ongoing
+2026-03-07 16:01:02.165,2,2,NW,W,ongoing
+2026-03-07 16:01:08.123,2,3,NW,NW,ongoing
+2026-03-07 16:01:10.081,2,3,NW,N/A,success
+2026-03-07 16:01:14.608,3,0,N,NE,ongoing
+2026-03-07 16:01:21.012,3,1,W,W,ongoing
+2026-03-07 16:01:22.761,3,1,W,N/A,success
+2026-03-07 16:01:27.775,4,0,NE,SE,ongoing
+2026-03-07 16:01:36.913,4,1,N,NE,ongoing
+2026-03-07 16:01:42.455,4,2,N,NE,ongoing
+2026-03-07 16:01:50.343,4,3,NW,N,ongoing
+2026-03-07 16:01:58.481,4,4,W,W,ongoing
+2026-03-07 16:02:00.232,4,4,W,N/A,success
+2026-03-07 16:02:04.940,5,0,E,SE,ongoing
+2026-03-07 16:02:13.926,5,1,N,SE,ongoing

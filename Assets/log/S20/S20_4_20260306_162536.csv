@@ -1,0 +1,9 @@
+﻿Timestamp,Point_Index,Attempt_Index,Correct_Direction,Responded_Direction,Status
+2026-03-06 16:26:23.648,0,0,SW,SW,ongoing
+2026-03-06 16:26:25.606,0,0,SW,N/A,success
+2026-03-06 16:26:32.078,1,0,W,W,ongoing
+2026-03-06 16:26:33.813,1,0,W,N/A,success
+2026-03-06 16:26:40.118,2,0,NE,SE,ongoing
+2026-03-06 16:26:47.397,2,1,N,NE,ongoing
+2026-03-06 16:26:53.257,2,2,N,N,ongoing
+2026-03-06 16:26:59.229,2,3,N,NW,ongoing
